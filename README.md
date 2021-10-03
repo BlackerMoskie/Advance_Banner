@@ -14,7 +14,7 @@ A banner Tool for Termux users.
 
 >`pkg install python -y`
 
->`git clone https://github.com/DaVe-Smith-89/Animation-Banner`
+>`git clone https://github.com/DNReporters/Advance_Banner`
 
 >`cd Animation-Banner`
 
